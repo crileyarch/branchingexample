@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/alegeus-branchingexample/v16/TestStore/0
+/.vs
+/SimpleMathClassLibrary/obj
+/SimpleConsoleApp/obj
+/SimpleConsoleApp/bin/Debug/netcoreapp3.1
+/SimpleMathClassLibrary/bin/Debug/netstandard2.0
+/SimpleConsoleApp/.vs/SimpleConsoleApp/v16
