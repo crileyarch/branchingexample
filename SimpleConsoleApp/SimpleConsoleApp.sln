@@ -3,14 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsoleApp", "SimpleConsoleApp.csproj", "{2B15EF5F-C862-435B-AD7D-3F1BD4B3BD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleConsoleApp", "SimpleConsoleApp.csproj", "{2B15EF5F-C862-435B-AD7D-3F1BD4B3BD95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMathClassLibrary", "..\SimpleMathClassLibrary\SimpleMathClassLibrary.csproj", "{61764858-125B-43BE-9F1B-59FFAA4AE596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMathClassLibrary", "..\SimpleMathClassLibrary\SimpleMathClassLibrary.csproj", "{61764858-125B-43BE-9F1B-59FFAA4AE596}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A493A8BB-933A-4327-9BCA-FE4B3B66A6F5}"
-	ProjectSection(SolutionItems) = preProject
-		TextFile1.txt = TextFile1.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
