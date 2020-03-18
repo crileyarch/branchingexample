@@ -9,3 +9,6 @@
 /SimpleConsoleApp/bin/Debug/netcoreapp3.1
 /SimpleMathClassLibrary/bin/Debug/netstandard2.0
 /SimpleConsoleApp/.vs/SimpleConsoleApp/v16
+/SimpleConsoleApp/.vs/SimpleConsoleApp/DesignTimeBuild
+/SimpleMathClassLibrary.Tests/bin/Debug/netcoreapp3.1
+/SimpleMathClassLibrary.Tests/obj
